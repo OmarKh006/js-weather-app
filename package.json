@@ -1,0 +1,30 @@
+{
+  "name": "weather-app-js",
+  "version": "1.0.0",
+  "description": "Weather web app using html-css-javascript",
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "homepage": "https://github.com/OmarKh006/js-weather-app#readme",
+  "bugs": {
+    "url": "https://github.com/OmarKh006/js-weather-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarKh006/js-weather-app.git"
+  },
+  "license": "ISC",
+  "author": "Omar Khairy",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "globals": "^17.4.0"
+  }
+}
